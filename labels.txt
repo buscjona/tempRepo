@@ -1,0 +1,7 @@
+0 horse
+1 dog
+2 climber
+3 football player
+4 biker
+5 child
+6 car
